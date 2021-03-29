@@ -1,1 +1,4 @@
+name: Zhihan (Cassie) Zhou
+markdown: kramdown
 theme: jekyll-theme-slate
+permalink: /blog/:year/:month/:day/:title
